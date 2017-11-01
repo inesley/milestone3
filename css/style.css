@@ -1,0 +1,41 @@
+#landingpageimage {
+
+background-color: black;
+}
+
+
+
+
+/*header div{
+	display: inline-block;
+	height: 20px;
+	width: 20px;
+	display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 20px 75px;
+  justify-content: space-between;
+  align-items: flex-start;
+
+}
+
+header nav {
+  display: flex;
+  justify-content: center;
+}
+
+header nav ul {
+  display: center;
+}
+
+header nav ul li a {
+  display: block;
+  padding: 10px 20px;
+  color: red;
+  font-weight: 600
+}
+
+header nav ul li a:hover{
+  text-decoration: underline;
+}
+*/
